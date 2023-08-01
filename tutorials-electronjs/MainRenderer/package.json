@@ -1,0 +1,11 @@
+{
+    "name": "MainRenderer",
+    "version": "1.0.0",
+    "main": "main.js",
+    "devDependencies": {
+        "electron": "^23.1.4"
+    },
+    "scripts": {
+        "start": "electron ."
+    }
+}
